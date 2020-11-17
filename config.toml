@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "NT"
 copyright = "Copyright &copy; 2020 - Nantian Duan"
 canonifyurls = true
-theme = "hugo-kiera"
 
 pygmentsCodeFences = true
 
