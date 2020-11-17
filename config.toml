@@ -1,0 +1,19 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "NT"
+copyright = "Copyright &copy; 2020 - Nantian Duan"
+canonifyurls = true
+theme = "hugo-kiera"
+
+pygmentsCodeFences = true
+
+googleAnalytics = "" #Google Analytics ID
+
+[author]
+    name = "Nantian Duan"
+    github = "https://github.com/ntduan"
+
+[params]
+    tagline = "..."
+    customCSS = []
+    disableDarkModeCSS = false
